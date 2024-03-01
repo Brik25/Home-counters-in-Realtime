@@ -1,6 +1,6 @@
 dash==0.21.0
 dash-renderer==0.11.3
-dash-html-components==0.9.0
+dash-html-components==2.0.0
 dash-core-components==0.21.0
 plotly
 sqlalchemy
